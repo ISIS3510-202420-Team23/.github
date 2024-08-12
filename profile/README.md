@@ -8,4 +8,6 @@
 * [Analytics Repository](https://github.com/ISIS3510-202420-Team23/Analytics)
 
 ### The Team 
-* Sofia Torres ramírez [@storres21](https://github.com/storres21)
+* Sofia Torres Ramírez [@storres21](https://github.com/storres21)
+* Juan José Osorio [@jjosorioc](https://github.com/jjosorioc)
+* Thais Tamaio [@thaistamaio](https://github.com/ThaisTamaio)
