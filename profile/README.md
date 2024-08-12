@@ -8,9 +8,8 @@
 * [Analytics Repository](https://github.com/ISIS3510-202420-Team23/Analytics)
 
 ### The Team 
-* Dani vas acá
+* Daniel Arango [@d.arangoc2](https://github.com/Daniel7578)
 * Paula Daza [@pdazad](https://github.com/pdazad)
 * Juan José Osorio [@jjosorioc](https://github.com/jjosorioc)
 * Sofia Torres Ramírez [@storres21](https://github.com/storres21)
 * Thais Tamaio [@thaistamaio](https://github.com/ThaisTamaio)
-
