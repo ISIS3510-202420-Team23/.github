@@ -11,5 +11,6 @@
 * Daniel Arango [@d.arangoc2](https://github.com/Daniel7578)
 * Paula Daza [@pdazad](https://github.com/pdazad)
 * Juan José Osorio [@jjosorioc](https://github.com/jjosorioc)
-* Sofia Torres Ramírez [@storres21](https://github.com/storres21)
 * Thais Tamaio [@thaistamaio](https://github.com/ThaisTamaio)
+* Sofia Torres Ramírez [@storres21](https://github.com/storres21)
+
