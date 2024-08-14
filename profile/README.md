@@ -1,5 +1,5 @@
 
-![AndletBackgroungRepoImg](https://github.com/user-attachments/assets/4b6b41f6-0ef2-4976-969a-c7f756d58ee6)
+![AndletBackgroungRepoImg](https://github.com/user-attachments/assets/d628b10e-68b3-4343-8f35-c5b1141031e1)
 
 
 # This is the GitHub Organization for Team 23 (Section 2)
