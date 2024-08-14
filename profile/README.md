@@ -1,3 +1,7 @@
+
+![AndletBackgroungRepoImg](https://github.com/user-attachments/assets/4b6b41f6-0ef2-4976-969a-c7f756d58ee6)
+
+
 # This is the GitHub Organization for Team 23 (Section 2)
 
 ### Relevant Links
