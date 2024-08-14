@@ -1,6 +1,7 @@
 
-
-![AndletBackgroungRepoImg](https://github.com/user-attachments/assets/a85dca44-6d48-45d7-b8bb-8a3807336ea9)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/a85dca44-6d48-45d7-b8bb-8a3807336ea9" alt="AndletBackground" height="600">  
+</p>
 
 
 # This is the GitHub Organization for Team 23 (Section 2)
