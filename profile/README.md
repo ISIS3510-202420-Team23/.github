@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/a85dca44-6d48-45d7-b8bb-8a3807336ea9" alt="AndletBackground" height="600">  
+<img src="https://github.com/user-attachments/assets/a85dca44-6d48-45d7-b8bb-8a3807336ea9" alt="AndletBackground" height="300">  
 </p>
 
 
