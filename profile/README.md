@@ -12,7 +12,7 @@
 |---------------------|----------------------------------------------------------------------|
 | 📝 **Wiki Homepage**   | [Wiki Homepage](https://github.com/ISIS3510-202420-Team23/Backend/wiki) |
 | 📱 **Flutter Repository** | [Flutter Repository](https://github.com/ISIS3510-202420-Team23/FlutterApp) |
-| 🍎 **Swift Repository**   | [Swift Repository](https://github.com/ISIS3510-202420-Team23/SwiftApp) |
+| 🍎 **Swift Repository**   | [Swift Repository](https://github.com/ISIS3510-202420-Team23/AndletSwift) |
 | 💻 **Backend Repository** | [Backend Repository](https://github.com/ISIS3510-202420-Team23/Backend) |
 | 📊 **Analytics Repository** | [Analytics Repository](https://github.com/ISIS3510-202420-Team23/Analytics) |
 
